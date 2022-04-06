@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET Core\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
+      "projectUniqueName": "d:\\.NET Core\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
       "projectName": "eShopSolution.WebApp",
-      "projectPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
+      "projectPath": "d:\\.NET Core\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.WebApp\\obj\\",
+      "outputPath": "d:\\.NET Core\\eShopSolution\\eShopSolution.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
