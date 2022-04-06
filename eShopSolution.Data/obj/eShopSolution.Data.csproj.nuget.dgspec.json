@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {}
+    "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {}
   },
   "projects": {
-    "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {
+    "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
+        "projectUniqueName": "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
         "projectName": "eShopSolution.Data",
-        "projectPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
+        "projectPath": "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\obj\\",
+        "outputPath": "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

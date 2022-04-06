@@ -8,6 +8,7 @@ using eShopSolution.Data.Configurations;
 using eShopSolution.Data.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using eShopSolution.Data.Extensions;
 
 namespace eShopSolution.Data.EF
 {
@@ -43,7 +44,7 @@ namespace eShopSolution.Data.EF
           
 
             //Data seeding
-            // modelBuilder.Seed();
+            modelBuilder.Seed();
             //base.OnModelCreating(modelBuilder);
         }
         public DbSet<Product> Products { get; set; }
@@ -76,5 +77,8 @@ namespace eShopSolution.Data.EF
             get; set;
 
         }
+
+        //Data Seed
+     
     }
 }
