@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {}
+    "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {}
   },
   "projects": {
-    "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {
+    "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
+        "projectUniqueName": "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
         "projectName": "eShopSolution.Data",
-        "projectPath": "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
+        "projectPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\obj\\",
+        "outputPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -60,6 +60,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[3.1.23, )"
             }
