@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRddqZFzOzSVBtFW68PVuVwNe0Ro1EHA2b9MDApXMci5W76DBCbUQgvf9gv/YTF3NmkPEnVQngjjI9M0DM1POw==",
+  "dgSpecHash": "nuy4N3AMdwthVCVcxpGsvv/sn7CgoRQoNWyIrAWCIb3RV+5aywVDIlcKy6Q5ohbou7QXBh0Y8lKhYNfFUQ1L4A==",
   "success": true,
-  "projectFilePath": "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
