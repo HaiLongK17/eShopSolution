@@ -23,6 +23,19 @@
           "lib/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
         }
       },
+      "Microsoft.AspNetCore.Http.Features/3.1.23": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.23",
+          "System.IO.Pipelines": "4.7.5"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore/3.1.23": {
         "type": "package",
         "dependencies": {
@@ -890,6 +903,15 @@
           "lib/netstandard1.3/System.IO.FileSystem.Primitives.dll": {}
         }
       },
+      "System.IO.Pipelines/4.7.5": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/System.IO.Pipelines.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.IO.Pipelines.dll": {}
+        }
+      },
       "System.Linq/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1616,6 +1638,32 @@
         "runtime": {
           "bin/placeholder/eShopSolution.Utilities.dll": {}
         }
+      },
+      "eShopSolution.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "3.1.23"
+        },
+        "compile": {
+          "bin/placeholder/eShopSolution.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eShopSolution.ViewModels.dll": {}
+        }
+      },
+      "eShopSolution.WebApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/eShopSolution.WebApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eShopSolution.WebApp.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -1654,6 +1702,23 @@
         "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml",
         "microsoft.aspnetcore.cryptography.keyderivation.3.1.23.nupkg.sha512",
         "microsoft.aspnetcore.cryptography.keyderivation.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Http.Features/3.1.23": {
+      "sha512": "vA8W9GdJ+1llt+asB2CwJZDRkfD4NaylZ+JA3jJQOsYsrgP8DpuL/Gl7km7P8gPbB8vN5KsxURMBf4rNEhGOqg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.http.features/3.1.23",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.xml",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.xml",
+        "microsoft.aspnetcore.http.features.3.1.23.nupkg.sha512",
+        "microsoft.aspnetcore.http.features.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Identity.EntityFrameworkCore/3.1.23": {
@@ -3619,6 +3684,34 @@
         "ref/xamarinwatchos10/_._",
         "system.io.filesystem.primitives.4.3.0.nupkg.sha512",
         "system.io.filesystem.primitives.nuspec"
+      ]
+    },
+    "System.IO.Pipelines/4.7.5": {
+      "sha512": "iqGBxw9zqxHK4bzwiYMYGYnaKK1OBQkLGwqqN/+kkj1lQVo+jEaEntOCL4XztOHjpp+ANYQ4UPKNUeeQmFK3mQ==",
+      "type": "package",
+      "path": "system.io.pipelines/4.7.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.IO.Pipelines.dll",
+        "lib/net461/System.IO.Pipelines.xml",
+        "lib/netcoreapp3.0/System.IO.Pipelines.dll",
+        "lib/netcoreapp3.0/System.IO.Pipelines.xml",
+        "lib/netstandard1.3/System.IO.Pipelines.dll",
+        "lib/netstandard1.3/System.IO.Pipelines.xml",
+        "lib/netstandard2.0/System.IO.Pipelines.dll",
+        "lib/netstandard2.0/System.IO.Pipelines.xml",
+        "ref/net461/System.IO.Pipelines.dll",
+        "ref/net461/System.IO.Pipelines.xml",
+        "ref/netcoreapp2.0/System.IO.Pipelines.dll",
+        "ref/netcoreapp2.0/System.IO.Pipelines.xml",
+        "system.io.pipelines.4.7.5.nupkg.sha512",
+        "system.io.pipelines.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
       ]
     },
     "System.Linq/4.3.0": {
@@ -5964,12 +6057,24 @@
       "type": "project",
       "path": "../eShopSolution.Utilities/eShopSolution.Utilities.csproj",
       "msbuildProject": "../eShopSolution.Utilities/eShopSolution.Utilities.csproj"
+    },
+    "eShopSolution.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../eShopSolution.ViewModels/eShopSolution.ViewModels.csproj",
+      "msbuildProject": "../eShopSolution.ViewModels/eShopSolution.ViewModels.csproj"
+    },
+    "eShopSolution.WebApp/1.0.0": {
+      "type": "project",
+      "path": "../eShopSolution.WebApp/eShopSolution.WebApp.csproj",
+      "msbuildProject": "../eShopSolution.WebApp/eShopSolution.WebApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "eShopSolution.Data >= 1.0.0",
-      "eShopSolution.Utilities >= 1.0.0"
+      "eShopSolution.Utilities >= 1.0.0",
+      "eShopSolution.ViewModels >= 1.0.0",
+      "eShopSolution.WebApp >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5979,11 +6084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\.NET Core\\eShopSolution\\eShopSolution.Application\\eShopSolution.Application.csproj",
+      "projectUniqueName": "D:\\.NET Core\\eShopSolution\\eShopSolution.Application\\eShopSolution.Application.csproj",
       "projectName": "eShopSolution.Application",
-      "projectPath": "d:\\.NET Core\\eShopSolution\\eShopSolution.Application\\eShopSolution.Application.csproj",
+      "projectPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.Application\\eShopSolution.Application.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "d:\\.NET Core\\eShopSolution\\eShopSolution.Application\\obj\\",
+      "outputPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6000,11 +6105,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {
-              "projectPath": "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj"
+            "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {
+              "projectPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj"
             },
-            "d:\\.NET Core\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj": {
-              "projectPath": "d:\\.NET Core\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj"
+            "D:\\.NET Core\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj": {
+              "projectPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj"
+            },
+            "D:\\.NET Core\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj": {
+              "projectPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj"
+            },
+            "D:\\.NET Core\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj": {
+              "projectPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj"
             }
           }
         }
@@ -6028,11 +6139,14 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.418\\RuntimeIdentifierGraph.json"
       }
     }
   }

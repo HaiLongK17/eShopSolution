@@ -6016,11 +6016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
+      "projectUniqueName": "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
       "projectName": "eShopSolution.Data",
-      "projectPath": "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
+      "projectPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "d:\\.NET Core\\eShopSolution\\eShopSolution.Data\\obj\\",
+      "outputPath": "D:\\.NET Core\\eShopSolution\\eShopSolution.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6096,7 +6096,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.418\\RuntimeIdentifierGraph.json"
       }
     }
   }

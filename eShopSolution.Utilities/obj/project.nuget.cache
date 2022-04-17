@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ofdFLJRWQoklS8+RZISGR2+W3Obn1qAO6Ms7sQcudfKVPSOTTc7/dWqqO5hAM0dKgWU+fwCqewESzn5CCRMyQg==",
+  "dgSpecHash": "YRLo1OMg4HngqAjcHF8G5cxPpjh1HCS+bOGNSbcJuqGu4cCKbjxVm7MpywsEOuA/TqibJ3sUo39Js5GG9f8MLQ==",
   "success": true,
-  "projectFilePath": "d:\\.NET Core\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj",
+  "projectFilePath": "D:\\.NET Core\\eShopSolution\\eShopSolution.Utilities\\eShopSolution.Utilities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -180,7 +180,7 @@ namespace eShopSolution.Data.Migrations
                         new
                         {
                             Id = new Guid("8d04dce2-969a-435d-bba4-df3f325983dc"),
-                            ConcurrencyStamp = "bf8fc175-9ce3-4a66-b290-4678a3770066",
+                            ConcurrencyStamp = "c67df4b5-2a8d-4df2-b001-dcacbc860a6a",
                             Description = "Administrator role",
                             Name = "admin",
                             NormalizedName = "admin"
@@ -257,7 +257,7 @@ namespace eShopSolution.Data.Migrations
                         {
                             Id = new Guid("69bd714f-9576-45ba-b5b7-f00649be00de"),
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "f39699bc-70f0-4a62-8c3b-f4377fdd7c7a",
+                            ConcurrencyStamp = "941c23c2-025b-4877-9d5e-29368861cb3d",
                             Dob = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "tedu.international@gmail.com",
                             EmailConfirmed = true,
@@ -266,7 +266,7 @@ namespace eShopSolution.Data.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "tedu.international@gmail.com",
                             NormalizedUserName = "admin",
-                            PasswordHash = "AQAAAAEAACcQAAAAECFK1AV3oo2cePZRfaJuQSd5dXSMH5YkCEacP2/IZEvhvQbQTzYYIfCpOPG0SwoB/w==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEMfwfGuceE/gwaGG3uEe1QTQLgOWQt/241y4qlwYLUoBJRXQWqTh1WOZEqiMP4yMjg==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,
@@ -587,9 +587,6 @@ namespace eShopSolution.Data.Migrations
                     b.Property<DateTime>("DateCreated")
                         .HasColumnType("datetime2");
 
-                    b.Property<bool?>("IsFeatured")
-                        .HasColumnType("bit");
-
                     b.Property<decimal>("OriginalPrice")
                         .HasColumnType("decimal(18,2)");
 
@@ -614,7 +611,7 @@ namespace eShopSolution.Data.Migrations
                         new
                         {
                             Id = 1,
-                            DateCreated = new DateTime(2022, 4, 8, 20, 0, 58, 499, DateTimeKind.Local).AddTicks(1672),
+                            DateCreated = new DateTime(2022, 4, 17, 9, 23, 43, 854, DateTimeKind.Local).AddTicks(874),
                             OriginalPrice = 100000m,
                             Price = 200000m,
                             Stock = 0,
