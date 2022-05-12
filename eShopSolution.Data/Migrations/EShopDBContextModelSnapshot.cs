@@ -8,14 +8,14 @@ using eShopSolution.Data.EF;
 
 namespace eShopSolution.Data.Migrations
 {
-    [DbContext(typeof(EShopDBContext))]
-    partial class EShopDBContextModelSnapshot : ModelSnapshot
+    [DbContext(typeof(EShopDbContext))]
+    partial class EShopDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "3.1.23")
+                .HasAnnotation("ProductVersion", "3.1.1")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
@@ -180,7 +180,7 @@ namespace eShopSolution.Data.Migrations
                         new
                         {
                             Id = new Guid("8d04dce2-969a-435d-bba4-df3f325983dc"),
-                            ConcurrencyStamp = "c67df4b5-2a8d-4df2-b001-dcacbc860a6a",
+                            ConcurrencyStamp = "b8538e4e-2535-450c-bcd4-1211f875a8a8",
                             Description = "Administrator role",
                             Name = "admin",
                             NormalizedName = "admin"
@@ -257,7 +257,7 @@ namespace eShopSolution.Data.Migrations
                         {
                             Id = new Guid("69bd714f-9576-45ba-b5b7-f00649be00de"),
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "941c23c2-025b-4877-9d5e-29368861cb3d",
+                            ConcurrencyStamp = "e349ca08-fe4b-487b-b2f6-4b0ecc4d2951",
                             Dob = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "tedu.international@gmail.com",
                             EmailConfirmed = true,
@@ -266,7 +266,7 @@ namespace eShopSolution.Data.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "tedu.international@gmail.com",
                             NormalizedUserName = "admin",
-                            PasswordHash = "AQAAAAEAACcQAAAAEMfwfGuceE/gwaGG3uEe1QTQLgOWQt/241y4qlwYLUoBJRXQWqTh1WOZEqiMP4yMjg==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEEUywyt0020P0x+9C9xm7BLxHuPaxy+p2qBbJs7eLYMz0yUwhanPc3PrlI8WcvKjVw==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,
@@ -400,7 +400,7 @@ namespace eShopSolution.Data.Migrations
                         {
                             Id = 1,
                             CategoryId = 1,
-                            LanguageId = "vi",
+                            LanguageId = "vi-VN",
                             Name = "Áo nam",
                             SeoAlias = "ao-nam",
                             SeoDescription = "Sản phẩm áo thời trang nam",
@@ -410,7 +410,7 @@ namespace eShopSolution.Data.Migrations
                         {
                             Id = 2,
                             CategoryId = 1,
-                            LanguageId = "en",
+                            LanguageId = "en-US",
                             Name = "Men Shirt",
                             SeoAlias = "men-shirt",
                             SeoDescription = "The shirt products for men",
@@ -420,7 +420,7 @@ namespace eShopSolution.Data.Migrations
                         {
                             Id = 3,
                             CategoryId = 2,
-                            LanguageId = "vi",
+                            LanguageId = "vi-VN",
                             Name = "Áo nữ",
                             SeoAlias = "ao-nu",
                             SeoDescription = "Sản phẩm áo thời trang nữ",
@@ -430,7 +430,7 @@ namespace eShopSolution.Data.Migrations
                         {
                             Id = 4,
                             CategoryId = 2,
-                            LanguageId = "en",
+                            LanguageId = "en-US",
                             Name = "Women Shirt",
                             SeoAlias = "women-shirt",
                             SeoDescription = "The shirt products for women",
@@ -496,13 +496,13 @@ namespace eShopSolution.Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "vi",
+                            Id = "vi-VN",
                             IsDefault = true,
                             Name = "Tiếng Việt"
                         },
                         new
                         {
-                            Id = "en",
+                            Id = "en-US",
                             IsDefault = false,
                             Name = "English"
                         });
@@ -611,7 +611,7 @@ namespace eShopSolution.Data.Migrations
                         new
                         {
                             Id = 1,
-                            DateCreated = new DateTime(2022, 4, 17, 9, 23, 43, 854, DateTimeKind.Local).AddTicks(874),
+                            DateCreated = new DateTime(2020, 3, 5, 21, 29, 33, 73, DateTimeKind.Local).AddTicks(6902),
                             OriginalPrice = 100000m,
                             Price = 200000m,
                             Stock = 0,
@@ -736,7 +736,7 @@ namespace eShopSolution.Data.Migrations
                             Id = 1,
                             Description = "Áo sơ mi nam trắng Việt Tiến",
                             Details = "Áo sơ mi nam trắng Việt Tiến",
-                            LanguageId = "vi",
+                            LanguageId = "vi-VN",
                             Name = "Áo sơ mi nam trắng Việt Tiến",
                             ProductId = 1,
                             SeoAlias = "ao-so-mi-nam-trang-viet-tien",
@@ -748,7 +748,7 @@ namespace eShopSolution.Data.Migrations
                             Id = 2,
                             Description = "Viet Tien Men T-Shirt",
                             Details = "Viet Tien Men T-Shirt",
-                            LanguageId = "en",
+                            LanguageId = "en-US",
                             Name = "Viet Tien Men T-Shirt",
                             ProductId = 1,
                             SeoAlias = "viet-tien-men-t-shirt",
@@ -797,46 +797,6 @@ namespace eShopSolution.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Promotions");
-                });
-
-            modelBuilder.Entity("eShopSolution.Data.Entities.Slide", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:IdentityIncrement", 1)
-                        .HasAnnotation("SqlServer:IdentitySeed", 1)
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(200)")
-                        .HasMaxLength(200);
-
-                    b.Property<string>("Image")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(200)")
-                        .HasMaxLength(200);
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(200)")
-                        .HasMaxLength(200);
-
-                    b.Property<int>("SortOrder")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Status")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Url")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(200)")
-                        .HasMaxLength(200);
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Slides");
                 });
 
             modelBuilder.Entity("eShopSolution.Data.Entities.Transaction", b =>
