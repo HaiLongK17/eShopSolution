@@ -1,6 +1,0 @@
-{
-    "ConnectionStrings":{
-        "eShopSolutionDb":"Server=DESKTOP-DT03IGN\\SQLEXPRESS;Database=eShopSolution;Trusted_Connection=True;"
-    }
-   
-}

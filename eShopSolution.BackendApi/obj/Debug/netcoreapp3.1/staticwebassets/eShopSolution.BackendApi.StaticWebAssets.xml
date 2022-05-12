@@ -1,3 +1,1 @@
-﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="_content/eShopSolution.WebApp" Path="D:\.NET Core\eShopSolution\eShopSolution.WebApp\wwwroot\" />
-</StaticWebAssets>
+﻿<StaticWebAssets Version="1.0" />
