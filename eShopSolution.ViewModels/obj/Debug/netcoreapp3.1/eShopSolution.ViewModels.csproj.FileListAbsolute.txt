@@ -1,9 +1,10 @@
-D:\.NET Core\eShopSolution\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.deps.json
-D:\.NET Core\eShopSolution\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
-D:\.NET Core\eShopSolution\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
-D:\.NET Core\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.csprojAssemblyReference.cache
-D:\.NET Core\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.AssemblyInfoInputs.cache
-D:\.NET Core\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.AssemblyInfo.cs
-D:\.NET Core\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.csproj.CoreCompileInputs.cache
-D:\.NET Core\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
-D:\.NET Core\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.deps.json
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.csproj.AssemblyReference.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.AssemblyInfoInputs.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.AssemblyInfo.cs
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.csproj.CoreCompileInputs.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb

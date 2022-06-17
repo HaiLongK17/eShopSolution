@@ -1,12 +1,13 @@
-D:\.NET Core\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.deps.json
-D:\.NET Core\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.json
-D:\.NET Core\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.dev.json
-D:\.NET Core\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
-D:\.NET Core\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
-D:\.NET Core\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csprojAssemblyReference.cache
-D:\.NET Core\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfoInputs.cache
-D:\.NET Core\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfo.cs
-D:\.NET Core\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.CoreCompileInputs.cache
-D:\.NET Core\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.dll
-D:\.NET Core\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.pdb
-D:\.NET Core\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.genruntimeconfig.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.deps.json
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.json
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.dev.json
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.AssemblyReference.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfoInputs.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfo.cs
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.CoreCompileInputs.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.genruntimeconfig.cache

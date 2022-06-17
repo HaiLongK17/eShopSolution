@@ -1,158 +1,159 @@
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\appsettings.json
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.BackendApi.exe
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.BackendApi.deps.json
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.BackendApi.runtimeconfig.json
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.BackendApi.runtimeconfig.dev.json
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.BackendApi.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.BackendApi.pdb
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.Application.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.Application.pdb
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.csprojAssemblyReference.cache
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.AssemblyInfoInputs.cache
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.AssemblyInfo.cs
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.csproj.CoreCompileInputs.cache
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.MvcApplicationPartsAssemblyInfo.cs
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.MvcApplicationPartsAssemblyInfo.cache
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.RazorTargetAssemblyInfo.cache
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.csproj.CopyComplete
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\staticwebassets\eShopSolution.BackendApi.StaticWebAssets.Manifest.cache
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\staticwebassets\eShopSolution.BackendApi.StaticWebAssets.xml
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.dll
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.pdb
-D:\.NET Core\eShopSolution\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.genruntimeconfig.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\appsettings.json
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.BackendApi.exe
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.BackendApi.deps.json
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.BackendApi.runtimeconfig.json
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.BackendApi.runtimeconfig.dev.json
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.BackendApi.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.BackendApi.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.Application.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.Application.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.csproj.AssemblyReference.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.AssemblyInfoInputs.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.AssemblyInfo.cs
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.csproj.CoreCompileInputs.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.MvcApplicationPartsAssemblyInfo.cs
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.MvcApplicationPartsAssemblyInfo.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\staticwebassets\eShopSolution.BackendApi.StaticWebAssets.Manifest.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\staticwebassets\eShopSolution.BackendApi.StaticWebAssets.xml
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\eShopSolution.BackendApi.styles.css
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.RazorTargetAssemblyInfo.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.csproj.CopyComplete
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.BackendApi\obj\Debug\netcoreapp3.1\eShopSolution.BackendApi.genruntimeconfig.cache

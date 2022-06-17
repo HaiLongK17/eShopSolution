@@ -1,0 +1,95 @@
+{
+  "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "5.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "eShopSolution.WebApp",
+  "Documents": [
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Shared\\Components\\SideBar\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\SideBar\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Product\\Category.cshtml",
+      "TargetPath": "Views\\Product\\Category.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Cart\\Checkout.cshtml",
+      "TargetPath": "Views\\Cart\\Checkout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Shared\\Components\\Pager\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Pager\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Account\\Register.cshtml",
+      "TargetPath": "Views\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Account\\Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Cart\\Index.cshtml",
+      "TargetPath": "Views\\Cart\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\eShopSolution-develop\\eShopSolution-develop\\eShopSolution.WebApp\\Views\\Product\\Detail.cshtml",
+      "TargetPath": "Views\\Product\\Detail.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

@@ -1,0 +1,15 @@
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.deps.json
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.AssemblyReference.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.GeneratedMSBuildEditorConfig.editorconfig
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfoInputs.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.AssemblyInfo.cs
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.CoreCompileInputs.cache
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.csproj.CopyComplete
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.dll
+G:\eShopSolution-feature-54_checkout_cart\eShopSolution.ApiIntegration\obj\Debug\netcoreapp3.1\eShopSolution.ApiIntegration.pdb
